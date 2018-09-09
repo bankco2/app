@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1079984164523",
+    "firebase_url": "https://bankco2-9c760.firebaseio.com",
+    "project_id": "bankco2-9c760",
+    "storage_bucket": "bankco2-9c760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079984164523:android:18cc520a182ec6f4",
+        "android_client_info": {
+          "package_name": "kr.roo.team1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079984164523-m00a65i53chga78eetlmuiqparscsi95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.roo.team1",
+            "certificate_hash": "4975840f84d4cd521f746d1ab5167ee188a2a525"
+          }
+        },
+        {
+          "client_id": "1079984164523-g76nvhf7jtu47mmkv6cjo12hrlvhr3k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHc6dzNDzX6d9XECBFmp5x30C4OfGQ3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079984164523-g76nvhf7jtu47mmkv6cjo12hrlvhr3k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
