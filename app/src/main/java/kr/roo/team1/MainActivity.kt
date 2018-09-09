@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
         mInstanceID = InstanceID.getInstance(this).getId()
 
-        mainWebView.loadUrl("https://bankco2.ga/")
+        mainWebView.loadUrl("https://bankco2.ga/main/")
 
 
         val fitnessOptions = FitnessOptions.builder()
